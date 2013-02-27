@@ -1,0 +1,1 @@
+2 0 * * * root /opt/ws2812XmlServer/ws2812XmlServerRestart.sh
